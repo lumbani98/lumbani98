@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lumbani98
-- 👀 I’m interested in data anlytics, AI and Visualizations
+- 👀 I’m interested in data analytics, AI and Visualizations
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science and fintech projects
 
